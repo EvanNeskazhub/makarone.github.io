@@ -1,0 +1,26 @@
+@media (max-width: 767px) {
+  .header-bg {
+    display: none;
+  }
+  .features .text {
+    margin-top: 0px;
+  }
+
+  .container .block {
+    margin-left: 28.5px
+  }
+  .features .container {
+    padding: 0;
+    margin: 0;
+  }
+  .mw-px {
+    display: none;
+  }
+  .footer-block-1{
+    margin-left: 23px;
+  }
+  .vidget-twitter {
+    margin: 0 auto;
+    margin-left: 10px;
+  }
+}
